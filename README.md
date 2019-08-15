@@ -8,7 +8,7 @@
   Gatsby's hello-world starter
 </h1>
 
-Playing around with Gatsby to learn how to build Static PWA and lean GraphQL
+Playing around with Gatsby to learn how to build Static PWA and lean GraphQL.
 Could this be a possible launchpad to rebuild a better blog (http://dont-grow-to-fast.com/)?  
 
 
