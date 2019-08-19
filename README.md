@@ -11,6 +11,14 @@
 Playing around with Gatsby to learn how to build Static PWA and lean GraphQL.
 Could this be a possible launchpad to rebuild a better blog (http://dont-grow-to-fast.com/)?  
 
+## Thing that are still missing as I learn: 
+
+- Publish the work (https://www.gatsbyjs.org/tutorial/part-eight/)
+- Deploy using Netlify
+- Using Themes 
+- Putting multiple themes together
+
+
 
 ## 💫 Deploy
 
